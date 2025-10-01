@@ -1,4 +1,4 @@
-# Decentralized Autonomous Organization (DAO)
+# Decentralized Autonomous Organization (DAO)-a blockchain based project
 
 ## Project Description
 
